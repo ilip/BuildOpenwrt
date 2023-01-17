@@ -126,7 +126,7 @@ CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_Xray=y
 
 # 主题包
 # CONFIG_PACKAGE_luci-theme-argon is not set
-C# ONFIG_PACKAGE_luci-theme-argon-mod=y
+# CONFIG_PACKAGE_luci-theme-argon-mod=y
 
 # Other Appliciations
 CONFIG_PACKAGE_bash=y
